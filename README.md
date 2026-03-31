@@ -30,8 +30,8 @@ C# / .NET engineer focused on real-world business systems, ERP customization, an
 ## Tech Stack
 
 - C# (.NET 6 / .NET 8)
-- SQL Server / SQLite
-- RestSharp / Newtonsoft.Json
+- SQL Server / SQLite / mySQL
+- RestSharp
 - WPF / Razor Pages
 - Acumatica Framework
 
