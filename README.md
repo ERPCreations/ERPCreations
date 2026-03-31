@@ -1,26 +1,51 @@
 # ERP Creations
 
-Custom ERP solutions, integrations, and tooling built with C# and Acumatica.
+C# / .NET engineer focused on real-world business systems, ERP customization, and practical tooling.
 
-## Focus Areas
-- Acumatica Customization & Extensions
-- API Integrations & Middleware (AcuSync)
-- Financial & Tax Software Development
-- Desktop Tools (WPF / .NET 8)
+---
 
-## Current Projects
-- LoggerViewer (WPF log analysis tool)
-- ERPCreationsSuite (Accounting / invoicing platform)
-- AcuSync (Acumatica middleware)
+## What We Do
+
+- Acumatica ERP customization & extensions
+- API integrations & middleware development
+- Financial / tax software systems
+- Desktop tooling (WPF, .NET 8)
+- Database design (SQL Server / SQLite)
+
+---
+
+## Current Work
+
+- **AcuSync**  
+  Middleware between legacy systems and Acumatica
+
+- **ERPCreationsSuite**  
+  Internal accounting / invoicing platform
+
+- **LoggerViewer**  
+  High-performance WPF log viewer (large file support, multi-tab, tail mode)
+
+---
 
 ## Tech Stack
+
 - C# (.NET 6 / .NET 8)
 - SQL Server / SQLite
 - RestSharp / Newtonsoft.Json
 - WPF / Razor Pages
-
-## Philosophy
-Build practical, efficient tools that solve real business problems without unnecessary complexity.
+- Acumatica Framework
 
 ---
-ERP Creations LLC
+
+## Approach
+
+- Keep it simple
+- Avoid unnecessary abstraction
+- Solve the actual business problem
+- Build tools that last
+
+---
+
+## Contact
+
+ERP Creations LLC  
