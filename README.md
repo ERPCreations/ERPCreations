@@ -6,11 +6,11 @@ C# / .NET engineer focused on real-world business systems, ERP customization, an
 
 ## What We Do
 
-- Acumatica ERP customization & extensions
-- API integrations & middleware development
-- Financial / tax software systems
-- Desktop tooling (WPF, .NET 8)
-- Database design (SQL Server / SQLite)
+- Acumatica ERP customization & extensions  
+- API integrations & middleware development  
+- Financial and tax software systems  
+- Desktop tooling (WPF / .NET 8)  
+- Database design (SQL Server / SQLite / mySQL)
 
 ---
 
